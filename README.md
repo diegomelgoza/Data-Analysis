@@ -8,8 +8,8 @@ In this project, I dive into the world of COVID-19 data analysis using SQL. Leve
 
 ## Nashville Data Cleaning Project
 
-With this project, I demonstrate my expertise in data cleaning and preparation using SQL queries. With a messy and unstructured dataset at hand, I employ various SQL techniques to transform the data into a clean, consistent, and reliable format.
+With this project, I demonstrate my expertise in data cleaning and preparation using SQL queries. I employ various SQL techniques to transform the data into a clean, consistent, and reliable format.
 
 ## Starbucks Food Project
 
-I analyzed the menu of a Starbucks location. 
+I analyzed the menu of a Starbucks location by looking at the nutritional facts of each item in the data set. 
